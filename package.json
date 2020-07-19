@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Akhil-chaudhary/Api-test#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+    "lite-server": "^2.5.4", 
+  "lodash": ">=4.17.19"
+  } 
 }
